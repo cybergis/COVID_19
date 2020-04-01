@@ -6,5 +6,6 @@ Abstract:
 This jupyter notebook demonstrates spatial correlation analytics bewtween population and CVOID-19 Confirmed cases in New York State. We are using New York State, US as our study area. And this notebook uses geospatial libraries to show the spatial distribution of population data, COVID confirmed cases, daily increases during the past week in New York State, and show the results for the spatial correlation analytics between population and COVID-19 confirmed cases in New York State.
 
 Image:
+![An interactive map showing the number of COVID-19 confirmed xases in the New York State](COVID-19_NYState.png)
 
 
